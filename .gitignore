@@ -1,0 +1,71 @@
+# ======================
+# Unity
+# ======================
+Game/[Ll]ibrary/
+Game/[Tt]emp/
+Game/[Oo]bj/
+Game/[Bb]uild/
+Game/[Bb]uilds/
+Game/[Ll]ogs/
+Game/[Uu]ser[Ss]ettings/
+Game/MemoryCaptures/
+Game/[Rr]ecordings/
+
+# Unity auto-generated VS/Rider files
+Game/*.csproj
+Game/*.sln
+Game/*.suo
+Game/*.tmp
+Game/*.user
+Game/*.userprefs
+Game/*.pidb
+Game/*.booproj
+Game/*.svd
+Game/*.pdb
+Game/*.opendb
+Game/*.VC.db
+
+# Unity3D generated meta files are version controlled
+# If you have no use for them, delete this comment and uncomment the following line:
+# *.meta
+
+# OS-generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ======================
+# Blender
+# ======================
+Art/**/*.blend1
+Art/**/__pycache__/
+Art/**/*.pyc
+
+# ======================
+# Build artifacts
+# ======================
+Game/[Bb]uild/
+*.exe
+*.app
+*.x86_64
+*.x86
+
+# ======================
+# IDE
+# ======================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ======================
+# Misc
+# ======================
+*.log
+*.bak
+*.orig
