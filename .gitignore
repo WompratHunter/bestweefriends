@@ -69,3 +69,6 @@ Game/[Bb]uild/
 *.log
 *.bak
 *.orig
+
+Game/*.slnx
+Game/mono_crash*.json
